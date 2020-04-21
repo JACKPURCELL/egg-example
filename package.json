@@ -7,8 +7,10 @@
     "declarations": true
   },
   "dependencies": {
+    "axios": "^0.19.2",
     "egg": "^2.15.1",
-    "egg-scripts": "^2.11.0"
+    "egg-scripts": "^2.11.0",
+    "egg-socket.io": "^4.1.6"
   },
   "devDependencies": {
     "autod": "^3.0.1",
